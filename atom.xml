@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-01-20T10:40:57.592Z</updated>
+  <updated>2022-01-24T16:31:31.452Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于家规</title>
+    <link href="http://example.com/2022/01/25/%E5%85%B3%E4%BA%8E%E5%AE%B6%E8%A7%84/"/>
+    <id>http://example.com/2022/01/25/%E5%85%B3%E4%BA%8E%E5%AE%B6%E8%A7%84/</id>
+    <published>2022-01-24T16:00:00.000Z</published>
+    <updated>2022-01-24T16:31:31.452Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="关于家规"><a href="#关于家规" class="headerlink" title="关于家规"></a>关于家规</h1><blockquote><p>本家规由小居他娘制定并享有独家解释权</p></blockquote><h3 id="亲密行为"><a href="#亲密行为" class="headerlink" title="亲密行为"></a>亲密行为</h3><ol><li>散步——散步是being喜欢的运动，同时也是一种亲密的行为，散步之前需要报备。一群人散步会稍好一些，有男有女将稍微更好一些。</li><li>玩密室——一群人可能互相抓来抓去，有牵手一起走的情节。</li></ol><p>为僚机亮绿灯，除同张床睡觉。不能与任何除了父母以外的人喝酒，否则记得转账。</p><h3 id="死定了"><a href="#死定了" class="headerlink" title="死定了"></a>死定了</h3><ol><li>“和别人搞暧昧你就死定了”</li><li>“有人和你走的近你不跟我说也不行”</li><li>“有人和你表白你瞒着我你就死定了”</li><li>“和前任再说一句话没有和我说，你就死定了”</li><li>“前任骂你你不跟我说你死定了”</li></ol><h3 id="禁行区"><a href="#禁行区" class="headerlink" title="禁行区"></a>禁行区</h3><ol><li>不能和别人贴着坐</li><li>不能给女生夹菜</li><li>不能送女生回家</li><li>除了加班12点之前必须回家</li><li>不可以天天和同一个人吃饭</li><li>不能发生图书馆30秒的事情</li><li>除准备礼物外不能欺骗</li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;关于家规&quot;&gt;&lt;a href=&quot;#关于家规&quot; class=&quot;headerlink&quot; title=&quot;关于家规&quot;&gt;&lt;/a&gt;关于家规&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;本家规由小居他娘制定并享有独家解释权&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;亲密行为</summary>
+      
+    
+    
+    
+    <category term="小居爹的记录" scheme="http://example.com/categories/%E5%B0%8F%E5%B1%85%E7%88%B9%E7%9A%84%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="家规" scheme="http://example.com/tags/%E5%AE%B6%E8%A7%84/"/>
+    
+  </entry>
   
   <entry>
     <title>小居的后花园</title>
